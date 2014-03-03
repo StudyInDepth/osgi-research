@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.24)  28 FEB 2014 22:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.24)  3 MAR 2014 18:24
 entering extended mode
 **report.tex
 ("D:\Google Drive\IT\Important\OSGi\OSGi\report.tex"
@@ -286,48 +286,62 @@ Package caption Info: End \AtBeginDocument code.
 \everyMPtoPDFconversion=\toks25
 )
 \c@lstlisting=\count124
- ("D:\Google Drive\IT\Important\OSGi\OSGi\report.toc")
+ ("D:\Google Drive\IT\Important\OSGi\OSGi\report.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write3
- ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/preface.tex"
-[2
+
+("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/preface.tex" [2
 
 
-]) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter1.tex" [3
+] [3
 
-]
+])
+("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter1.tex" [4]
 Chapter 1.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter2.tex" [4
+) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter2.tex" [5
 
 ]
 Chapter 2.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter3.tex" [5
+) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter3.tex" [6
 
 ]
 Chapter 3.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\bio/bibliography.tex" [6
+) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter4.tex" [7
+
+]
+Chapter 4.
+) ("D:\Google Drive\IT\Important\OSGi\OSGi\bio/bibliography.tex" [8
 
 ])
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 44.
 See the caption package documentation for explanation.
 
-[7
+[9
 
 ] ("D:\Google Drive\IT\Important\OSGi\OSGi\report.aux") ) 
 Here is how much of TeX's memory you used:
- 5356 strings out of 493921
- 76534 string characters out of 3144872
- 165294 words of memory out of 3000000
- 8615 multiletter control sequences out of 15000+200000
- 5152 words of font info for 19 fonts, out of 3000000 for 9000
+ 5405 strings out of 493921
+ 77355 string characters out of 3144872
+ 169294 words of memory out of 3000000
+ 8642 multiletter control sequences out of 15000+200000
+ 10710 words of font info for 40 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,5n,38p,245b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,6n,38p,545b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on report.pdf (7 pages, 40802 bytes).
+Output written on report.pdf (9 pages, 59575 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
