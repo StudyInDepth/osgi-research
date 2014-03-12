@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.24)  3 MAR 2014 18:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.24)  12 MAR 2014 18:04
 entering extended mode
 **report.tex
 ("D:\Google Drive\IT\Important\OSGi\OSGi\report.tex"
@@ -301,47 +301,96 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/preface.tex" [2
 
 
-] [3
+]
+Overfull \hbox (9.52225pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/12 Nowadays, soft-ware is a vi-tal and in-evitable part of the mod-ern world.Presently,
+ []
 
-])
-("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter1.tex" [4]
+[3
+
+]) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter1.tex" [4]
 Chapter 1.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter2.tex" [5
 
-]
+Overfull \hbox (1.26677pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/12 However, this level of en-cap-su-la-tion is only for low-level, in-di-vid-ual classes.
+ []
+
+[5
+
+] [6] <image/modules.JPG, id=22, 249.93375pt x 285.31593pt>
+File: image/modules.JPG Graphic file (type jpg)
+ <use image/modules.JPG>
+Package pdftex.def Info: image/modules.JPG used on input line 29.
+(pdftex.def)             Requested size: 249.93314pt x 285.31523pt.
+ [7 <D:/Google Drive/IT/Important/OSGi/OSGi/image/modules.JPG>] [8]) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/ch
+apter2.tex"
+Overfull \hbox (1.67372pt too wide) in paragraph at lines 58--1
+[]\OT1/cmr/m/n/12 Moreover, an-other re-mark-able ad-van-tage of OSGi is that re-mov-ing, adding
+ []
+
+[9]
 Chapter 2.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter3.tex" [6
+<image/layers.JPG, id=33, 207.02344pt x 146.79843pt>
+File: image/layers.JPG Graphic file (type jpg)
+ <use image/layers.JPG>
+Package pdftex.def Info: image/layers.JPG used on input line 7.
+(pdftex.def)             Requested size: 207.02292pt x 146.79807pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+
+Overfull \hbox (7.18149pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/bx/it/12 Module Layer \OT1/cmr/m/n/12 - Con-cerned with in-ter-ac-tion and com-mu-ni-ca-tion among
+ []
+
+<image/bundle.JPG, id=34, 318.43968pt x 360.59718pt>
+File: image/bundle.JPG Graphic file (type jpg)
+ <use image/bundle.JPG>
+Package pdftex.def Info: image/bundle.JPG used on input line 24.
+(pdftex.def)             Requested size: 318.4389pt x 360.5963pt.
+ [10
 
 ]
+<image/packages.JPG, id=41, 213.79875pt x 175.40532pt>
+File: image/packages.JPG Graphic file (type jpg)
+ <use image/packages.JPG>
+Package pdftex.def Info: image/packages.JPG used on input line 34.
+(pdftex.def)             Requested size: 213.79822pt x 175.40488pt.
+ [11 <D:/Google Drive/IT/Important/OSGi/OSGi/image/layers.JPG>] [12 <D:/Google Drive/IT/Important/OSGi/OSGi/image/bundle
+.JPG>])
+("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter4.tex" [13 <D:/Google Drive/IT/Important/OSGi/OSGi/image/package
+s.JPG>]
 Chapter 3.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\chapter/chapter4.tex" [7
-
-]
-Chapter 4.
-) ("D:\Google Drive\IT\Important\OSGi\OSGi\bio/bibliography.tex" [8
+) ("D:\Google Drive\IT\Important\OSGi\OSGi\bio/bibliography.tex" [14
 
 ])
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 44.
 See the caption package documentation for explanation.
 
-[9
+[15
 
 ] ("D:\Google Drive\IT\Important\OSGi\OSGi\report.aux") ) 
 Here is how much of TeX's memory you used:
- 5405 strings out of 493921
- 77355 string characters out of 3144872
+ 5453 strings out of 493921
+ 78094 string characters out of 3144872
  169294 words of memory out of 3000000
- 8642 multiletter control sequences out of 15000+200000
- 10710 words of font info for 40 fonts, out of 3000000 for 9000
+ 8682 multiletter control sequences out of 15000+200000
+ 11416 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,6n,38p,545b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,39p,1044b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on report.pdf (9 pages, 59575 bytes).
+cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (15 pages, 170715 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

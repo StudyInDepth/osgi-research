@@ -89,8 +89,8 @@ Class=LaTeXView
 Document=chapter\chapter2.tex
 
 [Frame4_View0,0]
-TopLine=0
-Cursor=210
+TopLine=6
+Cursor=362
 
 [Frame5]
 Flags=0
@@ -107,8 +107,8 @@ Class=LaTeXView
 Document=chapter\chapter1.tex
 
 [Frame5_View0,0]
-TopLine=103
-Cursor=7543
+TopLine=37
+Cursor=2882
 
 [Frame6]
 Flags=0
@@ -126,10 +126,28 @@ Document=report.tex
 
 [Frame6_View0,0]
 TopLine=0
-Cursor=132
+Cursor=230
+
+[Frame7]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=936
+NormalPos.bottom=453
+Class=LaTeXView
+Document=chapter\chapter3.tex
+
+[Frame7_View0,0]
+TopLine=0
+Cursor=29
 
 [SessionInfo]
-FrameCount=7
+FrameCount=8
 ActiveFrame=5
 
 [Bookmarks]
